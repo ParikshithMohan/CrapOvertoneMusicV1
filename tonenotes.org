@@ -1,3 +1,5 @@
+(scsynth -u 808)
+(use 'overtone.core)
 (connect-external-server 805)
 
 (demo (saw 110))
