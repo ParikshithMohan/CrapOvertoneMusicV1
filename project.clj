@@ -5,6 +5,7 @@
             :url "https://www.eclipse.org/legal/epl-2.0/"}
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [overtone/overtone "0.10.3"]]
-  :repl-options {:init-ns overtonedemo.core}
-  :main overtonedemo.core/overtone)
- 
+  ;;:repl-options {:init-ns overtonedemo.core}
+  ;;:main overtonedemo.core/overtone
+)
+
